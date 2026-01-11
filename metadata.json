@@ -1,0 +1,9 @@
+{
+  "name": "NagrikAi - Indian Law Assistant",
+  "description": "An AI-powered legal assistant designed for Indian citizens to understand their rights and laws in simple, native languages.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
